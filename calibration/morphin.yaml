@@ -40,8 +40,8 @@ Camera2.k2: -0.005878
 Camera2.p1: -0.000538
 Camera2.p2: 0.000578
 
-Camera.width: 3864
-Camera.height: 2196
+Camera.width: 512
+Camera.height: 288
 
 # Camera frames per second 
 Camera.fps: 1
@@ -56,7 +56,7 @@ Stereo.T_c1_c2: !!opencv-matrix
   cols: 4
   dt: f
   data: [1.0, 0.0, 0.0, 0.0,
-         0.0, 1.0, 0.0, -0.1097633,
+         0.0, 1.0, 0.0, -0.225428,
          0.0, 0.0, 1.0, 0.0
          0.0, 0.0, 0.0, 1.0]
 
